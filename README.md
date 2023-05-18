@@ -8,7 +8,7 @@ A user can create a random password by entering the following creiteria: the len
 To get started, click on the red "Generate Password" button and then a series of alerts will pop up in your browser. Type/click through the prompts in order to generate your unique password.
 
 ## GitHub Pages URL
-
+https://peteroste.github.io/PasswordGenerator/
 
 ## Screenshot
 ![Capture2](https://github.com/PeterOste/PasswordGenerator/assets/131497563/16633e8a-e737-4a8b-8977-9fa64e14efe1)
