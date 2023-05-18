@@ -11,7 +11,7 @@ To get started, click on the red "Generate Password" button and then a series of
 
 
 ## Screenshot
-
+![Capture2](https://github.com/PeterOste/PasswordGenerator/assets/131497563/16633e8a-e737-4a8b-8977-9fa64e14efe1)
 
 ## Installation
 To access the website, click on the index.html file and then open the page in your preferred browser.
